@@ -1,4 +1,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-ZCZC W00 10 L03 GitHub related
+ZCZC W00  10 L03 GitHub related
+ZCZC w00 140 L02 ZOOM meetings related
+ZCZC W00  30 L01 SCELE/Discord related
+ZCZC W00  40 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W00  30 L70 Studying for other courses.
