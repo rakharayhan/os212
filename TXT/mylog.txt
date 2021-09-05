@@ -2,10 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00  10 L03 GitHub related
-ZCZC w00 140 L02 ZOOM meetings related
+ZCZC w00 140 L02 Operating Systems ZOOM meetings
 ZCZC W00  30 L01 SCELE/Discord related
-ZCZC W00  40 L80 Waching: Movie, YouTube, TV, etc.
-ZCZC W00  60 L70 Studying for other courses.
-ZCZC W00  90 L82 Reading Book (paper or online)
+ZCZC W00  40 L80 Watching The Office
+ZCZC W00  90 L70 Studying for other courses (PBP Essay Assignment)
+ZCZC W00  90 L82 Reading Linear Algebra Textbook
 ZCZC W00  15 L09 Assignment in General
-ZCZC W00  30 L81 Listening: Radio, Music, etc.
+ZCZC W00  30 L81 Listening to The Killers
