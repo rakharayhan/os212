@@ -10,3 +10,11 @@ ZCZC W00  90 L82 Reading Linear Algebra Textbook
 ZCZC W00  15 L09 Assignment in General
 ZCZC W00  30 L81 Listening to The Killers
 ZCZC W01   5 L05 Quiz on 6/9/2021
+ZCZC W01 100 L02 OS Zoom meeting class on 6/9/2021
+ZCZC W01 180 L08 Asistensi assignments week01
+ZCZC W01  90 L11 Assignment #01
+ZCZC W01 105 L12 Assignment #02
+ZCZC W01  40 L05 OS Zoom meeting class on 9/9/2021
+ZCZC W01  30 L13 Assignment #03
+ZCZC W01  60 L14 Assignment #04
+ZCZC W01  30 L15 Assignment #05
