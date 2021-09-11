@@ -9,3 +9,4 @@ ZCZC W00  90 L70 Studying for other courses (PBP Essay Assignment)
 ZCZC W00  90 L82 Reading Linear Algebra Textbook
 ZCZC W00  15 L09 Assignment in General
 ZCZC W00  30 L81 Listening to The Killers
+ZCZC W01   5 L05 Quiz on 6/9/2021
