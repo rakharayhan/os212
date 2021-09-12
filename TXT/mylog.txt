@@ -12,9 +12,14 @@ ZCZC W00  30 L81 Listening to The Killers
 ZCZC W01   5 L05 Quiz on 6/9/2021
 ZCZC W01 100 L02 OS Zoom meeting class on 6/9/2021
 ZCZC W01 180 L08 Asistensi assignments week01
-ZCZC W01  90 L11 Assignment #01
-ZCZC W01 105 L12 Assignment #02
+ZCZC W01  90 L11 Assignment #01 : Preparing VirtualBox Guest
+ZCZC W01 105 L12 Assignment #02 : Installing Debian Guest from Scratch
 ZCZC W01  40 L05 OS Zoom meeting class on 9/9/2021
-ZCZC W01  30 L13 Assignment #03
-ZCZC W01  60 L14 Assignment #04
-ZCZC W01  30 L15 Assignment #05
+ZCZC W01  30 L13 Assignment #03 : GSGS and Read
+ZCZC W01  60 L14 Assignment #04 : Dressing up my Virtual Guest
+ZCZC W01  30 L15 Assignment #05 : SSH Keys and Git Cloning
+ZCZC W01  30 L16 Assignment #06 : Dressing up my GitHub page
+ZCZC W01  15 L17 Assignment #07 : updating mylog.txt
+ZCZC W01  15 L18 Assignment #08 : More awk, bash, regex, sed
+ZCZC W01  45 L19 Assignment #09 : OSC 10
+ZCZC W01  60 L64 Helping OS related problem to a friend
