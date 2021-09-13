@@ -24,3 +24,4 @@ ZCZC W01  15 L18 Assignment #08 : More awk, bash, regex, sed
 ZCZC W01  45 L19 Assignment #09 : OSC 10
 ZCZC W01  60 L64 Helping OS related problem to a friend
 ZCZC W01  90 L70 Working on my essay assignment for PBP course
+ZCZC W02  20 L05 Quiz on 13/9/2021
