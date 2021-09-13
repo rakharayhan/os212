@@ -25,3 +25,4 @@ ZCZC W01  45 L19 Assignment #09 : OSC 10
 ZCZC W01  60 L64 Helping OS related problem to a friend
 ZCZC W01  90 L70 Working on my essay assignment for PBP course
 ZCZC W02  20 L05 Quiz on 13/9/2021
+ZCZC W02  15 L32 Youtube: looking for a video to put on my GHP
