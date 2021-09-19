@@ -26,3 +26,18 @@ ZCZC W01  60 L64 Helping OS related problem to a friend
 ZCZC W01  90 L70 Working on my essay assignment for PBP course
 ZCZC W02  20 L05 Quiz on 13/9/2021
 ZCZC W02  15 L32 Youtube: looking for a video to put on my GHP
+ZCZC W02 140 L05 OS Zoom meeting class on Monday and Thursday
+ZCZC W02  40 L11 Assignment #01 : Reading OSC10
+ZCZC W02  30 L12 Assignment #02 : Try demos
+ZCZC W02 120 L13 Assignment #03 : Watch intro to cyber security videos
+ZCZC W02  10 L14 Assignment #04 : Generate a GnuPG Key Pair
+ZCZC W02  10 L15 Assignment #05 : List all GnuPG Keys
+ZCZC W02  10 L16 Assignment #06 : Importing ospubkey.txt Key
+ZCZC W02  10 L17 Assignment #07 : Signing the OS public key
+ZCZC W02  10 L18 Assignment #08 : Export my public key to my repo file
+ZCZC W02  40 L19 Assignment #09 : Updating my bookmark links
+ZCZC W02  20 L20 Assignment #10 : Review my peer links
+ZCZC W02   5 L09 Assignment #11 : Copy a simple and useful bash script
+ZCZC W02  10 L09 Assignment #12 : Updating mylog.txt
+ZCZC W02  15 L09 Assignment #13 : myscript.sh
+ZCZC W02  60 L70 Working on PBP lab
