@@ -15,3 +15,7 @@ This link basically has everything you need to get started programming in C lang
 This lecture slides explain many things from the reason why file systems exist to the VFS Interface.
 ### 6. [Filesystem Hierarchy Standard](https://www.linuxjournal.com/content/filesystem-hierarchy-standard)
 It contains an introduction to the Linux directory structure (directories and their description).
+### 7. [Malloc and Free in C Language](https://computer.howstuffworks.com/c29.htm)
+This article explains how do functions like Malloc and Free work on dynamic data structures. 
+### 8. [Little Endian and Big Endian](https://www.youtube.com/watch?v=9Rgnl4o0Vv8)
+This video will help you understand more about the way to read memory where one of them reads from the beginning to end and another reads from end to beginning.

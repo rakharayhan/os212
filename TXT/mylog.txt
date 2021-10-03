@@ -53,3 +53,15 @@ ZCZC W03  15 L17 Assignment #07 : Reviewing my peers' links
 ZCZC W03  15 L18 Assignment #08 : Updating my logs
 ZCZC W03  10 L19 Assignment #09 : Submitting my week 03 assignment
 ZCZC W03  30 L81 Listening to music
+ZCZC W04  20 L05 Quiz on 27/9/2021
+ZCZC W04 140 L02 OS Zoom meeting on Monday and Thursday
+ZCZC W04 100 L70 Working on TP1 SDA
+ZCZC W04  40 L11 Assignment #01 : Reading OSC10
+ZCZC W04  30 L12 Assignment #02 : Trying demos
+ZCZC W04  30 L13 Assignment #03 : Trying previous midterm problems
+ZCZC W04  10 L14 Assignment #04 : Installing Package List 2
+ZCZC W04  20 L15 Assignment #05 : Fetching and Extracting File "WEEK04.tar.bz2.asc"
+ZCZC W04  15 L16 Assignment #06 : Updating bookmark links
+ZCZC W04  20 L17 Assignment #07 : Reviewing my peers' links
+ZCZC W04  15 L18 Assignment #08 : Updating my logs
+ZCZC W04  10 L19 Assignment #09 : Submitting my week 04 assignment
