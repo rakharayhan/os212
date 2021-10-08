@@ -19,3 +19,7 @@ It contains an introduction to the Linux directory structure (directories and th
 This article explains how do functions like Malloc and Free work on dynamic data structures. 
 ### 8. [Little Endian and Big Endian](https://www.youtube.com/watch?v=9Rgnl4o0Vv8)
 This video will help you understand more about the way to read memory where one of them reads from the beginning to end and another reads from end to beginning.
+### 9. [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+This article includes characteristics and implementations of virtual memories.
+### 10. [Memory Management](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+This article explains various topics from Logical vs Physical Address Space to Memory Allocations.

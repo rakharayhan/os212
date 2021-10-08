@@ -65,3 +65,14 @@ ZCZC W04  15 L16 Assignment #06 : Updating bookmark links
 ZCZC W04  20 L17 Assignment #07 : Reviewing my peers' links
 ZCZC W04  15 L18 Assignment #08 : Updating my logs
 ZCZC W04  10 L19 Assignment #09 : Submitting my week 04 assignment
+ZCZC W05  20 L05 Quiz on 4/10/2021
+ZCZC W05 140 L02 OS Zoom meeting on Monday and Thursday
+ZCZC W05  90 L70 Working on Lab4 PBP
+ZCZC W05  30 L11 Assignment #01 : Reading OSC10
+ZCZC W05  30 L12 Assignment #02 : Trying demos
+ZCZC W05  30 L13 Assignment #03 : Trying previous midterm problems
+ZCZC W05  75 L14 Assignment #04 : Setting memory, modify mymemory2.c, run script "000-README.txt"
+ZCZC W05  40 L15 Assignment #05 : Updating bookmark links
+ZCZC W05  25 L17 Assignment #07 : Reviewing my peers' links
+ZCZC W05  15 L18 Assignment #08 : Updating my logs
+ZCZC W05  10 L19 Assignment #09 : Submitting my week 05 assignment
