@@ -76,3 +76,14 @@ ZCZC W05  40 L15 Assignment #05 : Updating bookmark links
 ZCZC W05  25 L17 Assignment #07 : Reviewing my peers' links
 ZCZC W05  15 L18 Assignment #08 : Updating my logs
 ZCZC W05  10 L19 Assignment #09 : Submitting my week 05 assignment
+ZCZC W06  20 L05 Quiz on 11/10/2021
+ZCZC W06 140 L02 OS Zoom meeting on Monday and Thursday
+ZCZC W06 240 L70 Studying for other courses midterm exams
+ZCZC W06  30 L11 Assignment #01 : Reading OSC10
+ZCZC W06  30 L12 Assignment #02 : Trying demos
+ZCZC W06  30 L13 Assignment #03 : Trying previous midterm problems
+ZCZC W06  40 L14 Assignment #04 : Learning about Fork() and Shared Memory
+ZCZC W06  40 L15 Assignment #05 : Updating bookmark links
+ZCZC W06  25 L17 Assignment #07 : Reviewing my peers' links
+ZCZC W06  15 L18 Assignment #08 : Updating my logs
+ZCZC W06  10 L19 Assignment #09 : Submitting my week 06 assignment

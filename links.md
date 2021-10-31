@@ -23,3 +23,7 @@ This video will help you understand more about the way to read memory where one 
 This article includes characteristics and implementations of virtual memories.
 ### 10. [Memory Management](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 This article explains various topics from Logical vs Physical Address Space to Memory Allocations.
+### 11. [Concurrency in OS](https://www.javatpoint.com/concurrency-in-operating-system)
+This link will take you to an article filled with principles, issues, advantages, and disadvantages of Concurrency in OS.
+### 12. [Threads and Concurrency Notes](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
+Complete Notes of everything about Threads and Concurrency in operating systems.
