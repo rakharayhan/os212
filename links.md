@@ -27,3 +27,7 @@ This article explains various topics from Logical vs Physical Address Space to M
 This link will take you to an article filled with principles, issues, advantages, and disadvantages of Concurrency in OS.
 ### 12. [Threads and Concurrency Notes](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)
 Complete Notes of everything about Threads and Concurrency in operating systems.
+### 13. [Deadlock vs Starvation](https://www.javatpoint.com/deadlock-vs-starvation)
+In this article you will learn about deadlock, starvation, and also the difference between the two.
+### 14. [Process Synchronization in OS](https://www.guru99.com/process-synchronization.html)
+In the link above you will learn about the definition of Process Synchronization, how does it work, and many more!
