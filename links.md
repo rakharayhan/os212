@@ -31,3 +31,7 @@ Complete Notes of everything about Threads and Concurrency in operating systems.
 In this article you will learn about deadlock, starvation, and also the difference between the two.
 ### 14. [Process Synchronization in OS](https://www.guru99.com/process-synchronization.html)
 In the link above you will learn about the definition of Process Synchronization, how does it work, and many more!
+### 15. [Process Scheduling in OS](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+You will learn about the essential part of a multiprogramming operating systems that is Process Scheduling.
+### 16. [CPU Scheduling in OS](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)
+This article covers the basic concepts of CPU scheduling, scheduling criteria, scheduling algorithms, thread scheduling, and many more things!

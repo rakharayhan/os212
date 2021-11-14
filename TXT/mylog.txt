@@ -98,3 +98,15 @@ ZCZC W07  40 L15 Assignment #05 : Updating bookmark links
 ZCZC W07  25 L17 Assignment #07 : Reviewing my peers' links
 ZCZC W07  15 L18 Assignment #08 : Updating my logs
 ZCZC W07  10 L19 Assignment #09 : Submitting my week 07 assignment
+ZCZC W08  20 L05 Quiz on 8/11/2021
+ZCZC W08  90 L02 OS Zoom meeting on Monday and Thursday
+ZCZC W08 120 L70 Finishing other courses assignment
+ZCZC W08  30 L11 Assignment #01 : Reading OSC10
+ZCZC W08  30 L12 Assignment #02 : Trying demos
+ZCZC W08  30 L13 Assignment #03 : Trying previous midterm problems
+ZCZC W08  60 L14 Assignment #04 : LFS Chapter 01-04
+ZCZC W08  60 L15 Assignment #05 : LFS Chapter 05
+ZCZC W08  40 L16 Assignment #06 : Updating bookmark links
+ZCZC W08  25 L18 Assignment #08 : Reviewing my peers' links
+ZCZC W08  15 L19 Assignment #09 : Updating my logs
+ZCZC W08  10 L20 Assignment #10 : Submitting my week 08 assignment
