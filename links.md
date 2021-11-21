@@ -35,3 +35,7 @@ In the link above you will learn about the definition of Process Synchronization
 You will learn about the essential part of a multiprogramming operating systems that is Process Scheduling.
 ### 16. [CPU Scheduling in OS](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html)
 This article covers the basic concepts of CPU scheduling, scheduling criteria, scheduling algorithms, thread scheduling, and many more things!
+### 17. [What is UEFI?](https://whatis.techtarget.com/definition/Unified-Extensible-Firmware-Interface-UEFI)
+You will learn about a specification for a software program that connects a computer's firmware to its operating system.
+### 18. [What is BIOS?](https://whatis.techtarget.com/definition/BIOS-basic-input-output-system)
+You will learn about the program used by a computer's microprocessor to start the computer system after it powered on.
